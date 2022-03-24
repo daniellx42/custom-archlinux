@@ -8,7 +8,7 @@ $ sudo pacman -S papirus-icon-theme
 ```
 ## insert in /.config
 ```
-paste: rofi
+\\ paste: rofi
 ```
 ## insert in /.config/i3
 ```

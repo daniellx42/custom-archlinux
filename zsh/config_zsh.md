@@ -15,7 +15,7 @@ theme and plugin
 ```
 $ vim .zshrc
 
-THEME = xiong-chiamiov-plus
+\\ THEME = xiong-chiamiov-plus
 
 plugins=(zsh-autosuggestions zsh-syntax-highlighting)
 ```
