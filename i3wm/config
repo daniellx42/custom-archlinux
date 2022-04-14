@@ -195,3 +195,6 @@ bindsym $mod+u exec setxkbmap us
 bindsym $mod+b exec setxkbmap br
 # exec "setxkbmap -layout us,br"
 # exec "setxkbmap -option 'grp:alt_shift_toggle'"
+
+### Flameshot
+bindsym $mod+Shift+f exec flameshot gui
